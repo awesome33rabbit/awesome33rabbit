@@ -1,4 +1,4 @@
-### Hi, I'm Jolly.Liu. 👋
+### Hi, I'm PMZ. 👋
 
 - 🔭 I’m now working for TAL.
 - 🌱 I’m a pupil of front-end learning. 
