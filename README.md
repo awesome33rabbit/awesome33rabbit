@@ -10,20 +10,3 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&hide_border=true">
 </div>
 
-
-
-
-
-theme:
-
-- dark
-- radical
-- merko
-- gruvbox
-- tokyonight
-- onedark
-- cobalt
-- synthwave
-- highcontrast
-- dracula
-
