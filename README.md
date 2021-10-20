@@ -10,7 +10,7 @@
 
 - 💬 Be free to ask me about anything [here](https://github.com/awesome33rabbit/awesome33rabbit/issues).
 
-<img height="380px" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/project.png">
+<img align="right" height="280px" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/project.png">
  
 <br>
 <br>
