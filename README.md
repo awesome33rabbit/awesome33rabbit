@@ -2,7 +2,7 @@
 
 - 🔭 I’m now working for Xuwu.
 
-- 🌱 I’m a developer of back-end learning. 
+- 🌱 I’m a developer of back-end. 
 
 - 🤔 I’m currently coding in Python Java  Go and Vue.
 
@@ -35,5 +35,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&hide_border=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&layout=compact"></img>
 
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&layout=compact)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&layout=compact)
 
 
