@@ -69,6 +69,6 @@ I'm ...
 <br>
 <br>
 
-:computer: [homePage](https://awesome33rabbit.github.io/): https://awesome33rabbit.github.io/
+:computer: [Homepage](https://awesome33rabbit.github.io/): https://awesome33rabbit.github.io/
 
-:email:	[myEmail](mailto://pumz_1991@126.com): pumz_1991@126.com
+:email:	[E-mail](mailto://pumz_1991@126.com): pumz_1991@126.com
