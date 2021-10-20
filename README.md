@@ -29,7 +29,9 @@
   ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave&">
+
 ---
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&hide_border=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&layout=compact"></img>
 
