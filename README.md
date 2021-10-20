@@ -45,10 +45,7 @@ I'm ...
 | ⭐⭐      | Java            | Frequently Used      |
 |         |                 |                      |
 
-<img align="left" height="220" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
-<img align="left" height="220" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
-
 ---
 
-<img align="center" src="ttps://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1031634713815_.pic_hd.png">
-<img align="right" src="ttps://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1051634713821_.pic_hd.png">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&layout=compact">
