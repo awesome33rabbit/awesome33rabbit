@@ -6,7 +6,7 @@
 
 - 🌱 I’m a developer of back-end. 
 
-- 🤔 I’m currently coding in Python Java  Go and Vue.
+- 🤔 I’m currently coding in Python Go Java and Vue.
 
 - ❤️ I like playing Steam Switch and PS4&5.
 
