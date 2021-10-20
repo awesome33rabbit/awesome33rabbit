@@ -1,3 +1,5 @@
+<img align="right" height="280px" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/project.png">
+
 ### Hi, I'm PMZ. 👋
 
 - 🔭 I’m now working for Xuwu.
@@ -9,8 +11,6 @@
 - ❤️ I like playing Steam Switch and PS4&5.
 
 - 💬 Be free to ask me about anything [here](https://github.com/awesome33rabbit/awesome33rabbit/issues).
-
-<img align="right" height="280px" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/project.png">
  
 <br>
 <br>
