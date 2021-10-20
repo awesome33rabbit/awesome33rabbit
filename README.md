@@ -52,22 +52,11 @@ I'm ...
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&hide_border=false">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&layout=compact">
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 :computer: [Homepage](https://awesome33rabbit.github.io/): https://awesome33rabbit.github.io/
 
