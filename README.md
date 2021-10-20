@@ -2,7 +2,7 @@
 
 <img align="right" height="280px" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/project.png">
 
-### Hi, I'm Rabbit. 👋
+## Hi, I'm Rabbit. 👋
 
 - 🔭 I’m now working for ...
 
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-# **Welcome to my space**
+## **Welcome to my space**
 
 ```
 I'm ...
@@ -71,4 +71,4 @@ I'm ...
 
 :computer: [homePage](https://awesome33rabbit.github.io/): https://awesome33rabbit.github.io/
 
-:email:	[myEmail](mailto://pumz_1991@126.com): mailto://pumz_1991@126.com
+:email:	[myEmail](mailto://pumz_1991@126.com): pumz_1991@126.com
