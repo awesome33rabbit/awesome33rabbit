@@ -1,3 +1,5 @@
+<img align="right" height="280px" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/project.png">
+
 ### Hi, I'm PMZ. 👋
 
 - 🔭 I’m now working for Xuwu.
@@ -12,8 +14,8 @@
  
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
-<img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
+<img align="left" height="220" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
 <br>
 <br>
 <br>
