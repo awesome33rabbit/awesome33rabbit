@@ -36,7 +36,7 @@ I'm ...
 ---
 
 <img align="right" width="200" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1031634713815_.pic_hd.jpg">
-<img align="right" width="210" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1051634713821_.pic_hd.jpg">
+<img align="right" width="208" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1051634713821_.pic_hd.jpg">
 
 **Here are my areas**
 | Mastery | Items           | Notes                |
