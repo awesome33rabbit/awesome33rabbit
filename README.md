@@ -45,8 +45,8 @@ I'm ...
 | ⭐⭐      | Java            | Frequently Used      |
 |         |                 |                      |
 
-<img align="center" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1031634713815_.pic_hd.png">
-<img align="right" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1051634713821_.pic_hd.png">
+<img align="center" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1031634713815_.pic_hd.jpg">
+<img align="right" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1051634713821_.pic_hd.jpg">
 
 ---
 
