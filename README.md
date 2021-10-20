@@ -10,7 +10,8 @@
 
 - 💬 Be free to ask me about anything [here](https://github.com/awesome33rabbit/awesome33rabbit/issues).
 
-![img](https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
+<img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
   
 **Welcome to my space**
 
@@ -38,6 +39,6 @@ I'm ...
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&hide_border=true)
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=awesoem33rabbit&layout=compact)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome33rabbit&layout=compact)
 
 
