@@ -16,8 +16,8 @@
  
 <br>
 <br>
-<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
-<img align="left" height="220" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
+<img align="right" height="280px" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
+<img align="left" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
 <br>
 <br>
 <br>
