@@ -12,7 +12,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
 <img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
-<hr>
+<div></div>
   
 **Welcome to my space**
 
