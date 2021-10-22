@@ -15,8 +15,8 @@
 - 💬 Be free to ask me about anything [here](https://github.com/awesome33rabbit/awesome33rabbit/issues).
  
 <br><br>
-<img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
-<img align="right" width="450px" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=awesome33rabbit&show_icons=true&hide_border=true&theme=synthwave">
+<img align="right" width="350px" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
 <br><br>
 <br>
 <br>
@@ -33,8 +33,8 @@ I'm ...
 
 ---
 
-<img align="right" width="200" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1031634713815_.pic_hd.jpg">
-<img align="right" width="208" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1051634713821_.pic_hd.jpg">
+<img align="right" width="150" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1031634713815_.pic_hd.jpg">
+<img align="right" width="158" src="https://github.com/awesome33rabbit/awesome33rabbit/blob/master/img/1051634713821_.pic_hd.jpg">
 
 **Here are my areas**
 | Mastery | Items           | Notes                |
